@@ -24,7 +24,7 @@ This project demonstrates how to use a push button to control a sequence of LEDs
 Refer to the circuit diagram and photos in the `docs/` directory.
 
 #### Circuit Diagram
-![Circuit Diagram](docs/diagram.png)
+![Circuit Diagram](docs/Diagram.png)
 
 #### Circuit Photos
 ![Photo1](docs/photo1.jpg)
